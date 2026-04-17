@@ -99,7 +99,8 @@ dmesg | grep container_monitor | tail -5
 ## 3. Demo Screenshots
 
 **Screenshot 1 — Two containers running under one supervisor**
-![ss1](screenshots/ss1.png)
+
+<img width="1056" height="109" alt="image" src="https://github.com/user-attachments/assets/689658a8-4e40-455c-b487-9006e815b266" />
 
 **Screenshot 2 — ps output showing container metadata**
 ![ss2](screenshots/ss2.png)
